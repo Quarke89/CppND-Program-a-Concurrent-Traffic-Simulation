@@ -10,7 +10,7 @@ enum ObjectType
     noObject,
     objectVehicle,
     objectIntersection,
-    objectStreet,
+    objectStreet,    
 };
 
 class TrafficObject
